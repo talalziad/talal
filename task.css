@@ -125,6 +125,7 @@ background-color: #d6e1ffa6;
   }
   .lin p {
     position: fixed;
+    left: 607px;
 }
 h6 {
   position: absolute;
@@ -135,6 +136,7 @@ h6 {
 @media (min-width: 768px) { 
   .lin p {
     position: fixed;
+    left: 607px;
 } 
 h6 {
   position: absolute;
@@ -147,6 +149,7 @@ h6 {
 
   .lin p {
     position: fixed;
+    left: 607px;
 }
 h6 {
   position: absolute;
