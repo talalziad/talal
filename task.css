@@ -162,9 +162,3 @@ h6 {
   width: 98px;
 }
 }
-@media (min-width:150px) and (max-width:1220px) {
-  .lin p{
-    position: sticky;
-  }
-  
-}
